@@ -26,11 +26,19 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ] What is React JS and what problems does it try and solve? Support your answer with concepts introduced in class and from your personal research on the web.
 
+React is a framework for JS that Facebook created. It tries to solve the complexity involved with creating interactive UIs.
+
 - [ ] What does it mean to _think_ in react?
+
+Thinking in react means understanding data flow from parent to children components, state to props.
 
 - [ ] Describe state.
 
+State is the data set that lives on the parent class component(s).
+
 - [ ] Describe props.
+
+Props is how the parent component passes state data down to its children functional components. 
 
 ## Project Set Up
 
